@@ -7,7 +7,8 @@
 ## 💡Interests :
 -  *Watching football*
   
-<img width="600" height="670" alt="image" src="https://github.com/user-attachments/assets/4275919c-06fa-49f0-a2dc-fbf309a039f4" />
+
+<img width="600" height="670" alt="image" src="https://github.com/user-attachments/assets/65d5b7ae-5e28-4fbf-a028-982f8466e25d" />
 
 - *watching movies*
   
