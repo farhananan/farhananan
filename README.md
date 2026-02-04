@@ -1,16 +1,34 @@
-## Hi there 👋
+# ✏️*Welcome to my Profile*
+## ❓ABOUT ME :
+- *Name : Farhan Dinaf*
+- *Year : 11*
+- *Subjects that i like : Maths, digital tech*
 
-<!--
-**farhananan/Farhananan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡Interests :
+-  *Watching football*
+  
+<img width="600" height="670" alt="image" src="https://github.com/user-attachments/assets/4275919c-06fa-49f0-a2dc-fbf309a039f4" />
 
-Here are some ideas to get you started:
+- *watching movies*
+  
+<img width="600" height="579" alt="image" src="https://github.com/user-attachments/assets/be25f6b1-ffc3-4b42-a6a9-1b48c1a44a55" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- *working out*
+- *playing badminton*
+
+## 📖Skills I am learning
+- *Coding*
+- *Markdown*
+- *Trying get better in digital technology*
+
+## 🧑‍💻Hobbies
+- *I like to play video games on my free time*
+- *Listening to Music* 
+
+## 🎯Goals
+- *To get better at coding and new digital technology stuffs by the end of the year*
+
+## 📋Progress List
+- [x] Markdown
+
