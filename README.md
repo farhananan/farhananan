@@ -20,7 +20,6 @@
 
 ## 📖Skills I am learning
 - *Coding*
-- *Markdown*
 - *Trying get better in digital technology*
 
 ## 🧑‍💻Hobbies
